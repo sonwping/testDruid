@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: druid
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Administrator
+Implementation-Build: 
+Implementation-Vendor-Id: com.alibaba
+Build-Jdk: 1.8.0_131
+Created-By: Maven Integration for Eclipse
+
